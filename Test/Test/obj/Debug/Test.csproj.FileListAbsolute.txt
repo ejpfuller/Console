@@ -1,0 +1,9 @@
+/Users/ethanfuller/Projects/Console/Test/Test/bin/Debug/Test.exe
+/Users/ethanfuller/Projects/Console/Test/Test/bin/Debug/Test.pdb
+/Users/ethanfuller/Projects/Console/Test/Test/bin/Debug/Newtonsoft.Json.dll
+/Users/ethanfuller/Projects/Console/Test/Test/bin/Debug/Newtonsoft.Json.xml
+/Users/ethanfuller/Projects/Console/Test/Test/obj/Debug/Test.csproj.CoreCompileInputs.cache
+/Users/ethanfuller/Projects/Console/Test/Test/obj/Debug/Test.csproj.CopyComplete
+/Users/ethanfuller/Projects/Console/Test/Test/obj/Debug/Test.exe
+/Users/ethanfuller/Projects/Console/Test/Test/obj/Debug/Test.pdb
+/Users/ethanfuller/Projects/Console/Test/Test/obj/Debug/Test.csprojAssemblyReference.cache
